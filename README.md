@@ -7,13 +7,16 @@
 
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Gunk:
+
 
 ```markdown
-_I just made this for entertainment._
-
-'brew update'
+Some code goes here
 
 ```
+or here:
+
+`brew update`
+
