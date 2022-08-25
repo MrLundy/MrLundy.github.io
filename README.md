@@ -1,3 +1,5 @@
+Title:Chris Lundy
+Description:Chris Lundy's Github Site
 ## Chris Lundy on GitHub
 
 ### Projects
